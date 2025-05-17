@@ -21,16 +21,18 @@ Input validation and replay options for each game
 
 
 
-🔧 Technologies Used
+Technologies Used
+
 C++
 Standard Libraries: <iostream>, <cstdlib>, <ctime>
 
 🧠 Key Concepts Practiced
-Control Structures: if-else, switch, do-while loops
-Random Number Generation: Using srand(time(0)) and rand() for unpredictability
-User Input Handling and basic validation
-Loop-based Replay System for continuous interaction
-Menu-Driven Program Structure for cleaner user experience
+
+Control Structures: if-else, switch, do-while loops,
+Random Number Generation: Using srand(time(0)) and rand() for unpredictability,
+User Input Handling and basic validation,
+Loop-based Replay System for continuous interaction,
+Menu-Driven Program Structure for cleaner user experience,
 
 📚 What I Learned
 
