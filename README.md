@@ -8,6 +8,7 @@ Seven Up Seven Down – A dice-based betting game where the user guesses whether
 
 Guess the Number – A number guessing game with three difficulty levels (easy, medium, hard), each limiting the number of allowed guesses.
 
+
 💡 Features
 
 Menu-driven interface
@@ -17,6 +18,7 @@ Random number generation using rand() and srand()
 Game logic implemented with switch, if-else, and loops
 
 Input validation and replay options for each game
+
 
 
 🔧 Technologies Used
@@ -31,5 +33,6 @@ Loop-based Replay System for continuous interaction
 Menu-Driven Program Structure for cleaner user experience
 
 📚 What I Learned
+
 This project helped reinforce my understanding of C++ fundamentals including control structures, functions, randomness, and user interaction in a command-line environment. It also provided hands-on experience in organizing multiple games within a single application.
 
